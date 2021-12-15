@@ -1,0 +1,10 @@
+C:\Users\Roberto\source\repos\BibliotecaDB\BibliotecaDB\bin\Debug\BibliotecaDB.exe.config
+C:\Users\Roberto\source\repos\BibliotecaDB\BibliotecaDB\bin\Debug\BibliotecaDB.exe
+C:\Users\Roberto\source\repos\BibliotecaDB\BibliotecaDB\bin\Debug\BibliotecaDB.pdb
+C:\Users\Roberto\source\repos\BibliotecaDB\BibliotecaDB\obj\Debug\BibliotecaDB.csproj.AssemblyReference.cache
+C:\Users\Roberto\source\repos\BibliotecaDB\BibliotecaDB\obj\Debug\BibliotecaDB.Form1.resources
+C:\Users\Roberto\source\repos\BibliotecaDB\BibliotecaDB\obj\Debug\BibliotecaDB.Properties.Resources.resources
+C:\Users\Roberto\source\repos\BibliotecaDB\BibliotecaDB\obj\Debug\BibliotecaDB.csproj.GenerateResource.cache
+C:\Users\Roberto\source\repos\BibliotecaDB\BibliotecaDB\obj\Debug\BibliotecaDB.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\BibliotecaDB\BibliotecaDB\obj\Debug\BibliotecaDB.exe
+C:\Users\Roberto\source\repos\BibliotecaDB\BibliotecaDB\obj\Debug\BibliotecaDB.pdb
